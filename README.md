@@ -1,2 +1,2 @@
 # gitignore-cheatsheet
-Assignment 1.
+Assignment 2: Git ignore and .gitignore
