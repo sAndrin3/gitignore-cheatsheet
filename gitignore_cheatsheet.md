@@ -7,4 +7,4 @@ node_modules/ | All files with the node_module /directory will be ignored|
 *.log         | All files with .log extension will be ignored            | name.log
 build/        | All  files with build /directory will be ignored         | 
 *.pdf         | All files with the .pdf extension will be ignore         | file.pdf
-# text comment|	Lines starting with # are ignored                        |
+name/         | Ending with / to be ignored                              | /name/file.txt
