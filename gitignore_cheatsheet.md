@@ -8,3 +8,5 @@ node_modules/ | All files with the node_module /directory will be ignored|
 build/        | All  files with build /directory will be ignored         | 
 *.pdf         | All files with the .pdf extension will be ignore         | file.pdf
 name/         | Ending with / to be ignored                              | /name/file.txt
+*.csv         | ignore files with .csv extension                         | file.csv
+*.git         | ignore .git extensions                                   | name.git
